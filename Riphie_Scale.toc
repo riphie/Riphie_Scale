@@ -1,0 +1,7 @@
+## Interface: 110200
+
+## Title: Riphie Scale
+## Author: Riphie
+
+config.lua
+core.lua
