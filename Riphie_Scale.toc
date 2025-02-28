@@ -2,6 +2,7 @@
 
 ## Title: Riphie Scale
 ## Author: Riphie
+## Category-enUS: Riphie
 ## IconTexture: Interface\AddOns\Riphie_Scale\media\monkey.tga
 
 config.lua
